@@ -1,0 +1,13 @@
+/target/
+
+!/target/release/
+/target/release/*
+!/target/release/bruteforce
+!/target/release/attack_target/
+
+!/target/x86_64-pc-windows-gnu/
+/target/x86_64-pc-windows-gnu/*
+!/target/x86_64-pc-windows-gnu/release/
+/target/x86_64-pc-windows-gnu/release/*
+!/target/x86_64-pc-windows-gnu/release/bruteforce.exe
+!/target/x86_64-pc-windows-gnu/release/attack_target/
